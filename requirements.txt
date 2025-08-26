@@ -1,0 +1,7 @@
+flask==3.0.3
+transformers==4.36.0
+tokenizers==0.15.2
+torch==2.1.2
+pdfminer.six==20231228
+python-dotenv==1.0.1
+gunicorn==21.2.0

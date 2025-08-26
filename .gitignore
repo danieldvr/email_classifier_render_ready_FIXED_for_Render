@@ -1,0 +1,16 @@
+# Ignora o ambiente virtual do Python
+.venv/
+
+# Ignora caches do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignora arquivos de dados e logs temporários
+*.log
+.DS_Store
+.vscode/
+.env
+
+# Ignora arquivos de PDF
+*.pdf
